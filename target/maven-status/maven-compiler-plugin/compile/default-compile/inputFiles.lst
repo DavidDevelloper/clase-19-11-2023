@@ -1,0 +1,17 @@
+C:\Users\DATABASEF\Desktop\DAVID MOISES BELTRAN\spring-boot-data-jpa\src\main\java\com\bolsadeideas\springboot\app\models\entity\Cliente.java
+C:\Users\DATABASEF\Desktop\DAVID MOISES BELTRAN\spring-boot-data-jpa\src\main\java\com\bolsadeideas\springboot\app\models\entity\Producto.java
+C:\Users\DATABASEF\Desktop\DAVID MOISES BELTRAN\spring-boot-data-jpa\src\main\java\com\bolsadeideas\springboot\app\controllers\FacturaController.java
+C:\Users\DATABASEF\Desktop\DAVID MOISES BELTRAN\spring-boot-data-jpa\src\main\java\com\bolsadeideas\springboot\app\util\paginator\PageRender.java
+C:\Users\DATABASEF\Desktop\DAVID MOISES BELTRAN\spring-boot-data-jpa\src\main\java\com\bolsadeideas\springboot\app\models\service\IUploadFileService.java
+C:\Users\DATABASEF\Desktop\DAVID MOISES BELTRAN\spring-boot-data-jpa\src\main\java\com\bolsadeideas\springboot\app\models\service\UploadFileServiceImpl.java
+C:\Users\DATABASEF\Desktop\DAVID MOISES BELTRAN\spring-boot-data-jpa\src\main\java\com\bolsadeideas\springboot\app\util\paginator\PageItem.java
+C:\Users\DATABASEF\Desktop\DAVID MOISES BELTRAN\spring-boot-data-jpa\src\main\java\com\bolsadeideas\springboot\app\controllers\ClienteController.java
+C:\Users\DATABASEF\Desktop\DAVID MOISES BELTRAN\spring-boot-data-jpa\src\main\java\com\bolsadeideas\springboot\app\models\entity\Factura.java
+C:\Users\DATABASEF\Desktop\DAVID MOISES BELTRAN\spring-boot-data-jpa\src\main\java\com\bolsadeideas\springboot\app\models\service\IClienteService.java
+C:\Users\DATABASEF\Desktop\DAVID MOISES BELTRAN\spring-boot-data-jpa\src\main\java\com\bolsadeideas\springboot\app\models\dao\IProductoDao.java
+C:\Users\DATABASEF\Desktop\DAVID MOISES BELTRAN\spring-boot-data-jpa\src\main\java\com\bolsadeideas\springboot\app\models\dao\IClienteDao.java
+C:\Users\DATABASEF\Desktop\DAVID MOISES BELTRAN\spring-boot-data-jpa\src\main\java\com\bolsadeideas\springboot\app\SpringBootDataJpaApplication.java
+C:\Users\DATABASEF\Desktop\DAVID MOISES BELTRAN\spring-boot-data-jpa\src\main\java\com\bolsadeideas\springboot\app\MvcConfig.java
+C:\Users\DATABASEF\Desktop\DAVID MOISES BELTRAN\spring-boot-data-jpa\src\main\java\com\bolsadeideas\springboot\app\models\dao\IFacturaDao.java
+C:\Users\DATABASEF\Desktop\DAVID MOISES BELTRAN\spring-boot-data-jpa\src\main\java\com\bolsadeideas\springboot\app\models\service\ClienteServiceImpl.java
+C:\Users\DATABASEF\Desktop\DAVID MOISES BELTRAN\spring-boot-data-jpa\src\main\java\com\bolsadeideas\springboot\app\models\entity\ItemFactura.java
